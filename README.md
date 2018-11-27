@@ -1,4 +1,4 @@
-#Cluj-Napoca Sitecore Technical User Group
+# Cluj-Napoca Sitecore Technical User Group
 
 Our first meetup that was Thursday, February 25, 2016 at Addition Cluj.
 
